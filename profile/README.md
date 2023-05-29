@@ -10,7 +10,7 @@ Maxmind Geoip databases.
 
 - 🏃‍♀️ Updated weekly with up-to-date Maxmind Geolite databases
 - 💰 Can be used with commercial Maxmind databases as well
-- 💹 More than 500k downloads (and counting)
+- 💹 More than 4M downloads (and counting)
 
 ### 🤖 Prometheus Exporters
 
