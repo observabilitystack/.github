@@ -10,12 +10,18 @@ Maxmind Geoip databases.
 
 - 🏃‍♀️ Updated weekly with up-to-date Maxmind Geolite databases
 - 💰 Can be used with commercial Maxmind databases as well
-- 💹 More than 4M downloads (and counting)
+- 💹 More than 4.8M downloads (and counting)
+
+### 📣 Prometheus Alert Echo
+
+The missing historical Prometheus alert storage:
+A [echo service](https://github.com/observabilitystack/prometheus-alertecho) for
+Prometheus alert history. Use it for retrospective analysis.
 
 ### 🤖 Prometheus Exporters
 
 We maintain the following Prometheus Exporters primarily to provide
-`arm64` builds of the official Docker images for use with Amazons 
+`arm64` builds of the official Docker images for use with Amazons
 Graviton instances
 
 - ♻️ [Prometheus ECR Exporter](https://github.com/observabilitystack/prometheus-ecr-exporter)
