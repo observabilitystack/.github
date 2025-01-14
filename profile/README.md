@@ -28,7 +28,7 @@ Graviton instances
 - ♻️ [Prometheus GitHub Actions Exporter](https://github.com/observabilitystack/github-actions-exporter)
 - ♻️ [Prometheus GitHub Exporter](https://github.com/observabilitystack/github_exporter)
 - ♻️ [Prometheus S3 Exporter](https://github.com/observabilitystack/s3_exporter)
-- 🔐 Also check out the [Prometheus tls-grade-exporter](https://github.com/ping7io/tls-grade-exporter) to check your TLS setup
+- 🔐 [Prometheus tls-grade-exporter](https://github.com/observabilitystack/tls-grade-exporter) to check your TLS setup
 - ♻️ [Alertmanager MS Teams adapter](https://github.com/observabilitystack/prometheus-msteams)
 
 ### ✨ GraalVM Maven builder
